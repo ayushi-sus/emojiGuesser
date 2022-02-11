@@ -1,0 +1,63 @@
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+body{
+  background: #d4d0cd;
+    color: #0b242e;
+}
+input {
+  padding: 0.5rem 3rem;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 6.5 rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 500;
+  margin: 0 0 0 0;
+}
+span {
+  font-size: 3rem;
+  cursor: pointer;
+  align-items: center;
+
+}
+
+li{
+  list-style: none;
+  align-items: center;
+}
+
+.inner-div{
+  width: 20%;
+  float: right;
+
+}
+
+.navigation {
+    background-image: url("emojiImage.jpeg");
+    color: #2c1d24;
+    text-shadow: 3px 3px white;
+    padding: 1rem;
+    height: 150px;
+    font-size: 3.5rem;
+    margin-bottom: 0;
+    font-family: fantasy;
+
+}
+
+.mid{
+  margin-top: 5rem;
+}
+
